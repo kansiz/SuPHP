@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e8f257284c4294e76c8394be1574ce62",
+    "content-hash": "d49e9e5888f73b83d2ac67d03b06f3a2",
     "packages": [
         {
             "name": "kansiz/suphp-framework",
@@ -12,16 +12,16 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/kansiz/SuPHP-Framework.git",
-                "reference": "89dd74f75967ef7b4c022fd172089b6cec24daae"
+                "reference": "d5c4ce3655d7909d95287587fea780709f873193"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/kansiz/SuPHP-Framework/zipball/89dd74f75967ef7b4c022fd172089b6cec24daae",
-                "reference": "89dd74f75967ef7b4c022fd172089b6cec24daae",
+                "url": "https://api.github.com/repos/kansiz/SuPHP-Framework/zipball/d5c4ce3655d7909d95287587fea780709f873193",
+                "reference": "d5c4ce3655d7909d95287587fea780709f873193",
                 "shasum": ""
             },
             "require": {
-                "php": "^8.1.6"
+                "php": ">=7.4"
             },
             "default-branch": true,
             "type": "library",
@@ -59,7 +59,7 @@
                 "issues": "https://github.com/laravel/suphp-framework/issues",
                 "source": "https://github.com/kansiz/suphp-framework"
             },
-            "time": "2022-06-28T00:43:48+00:00"
+            "time": "2022-06-28T01:05:53+00:00"
         }
     ],
     "packages-dev": [],
@@ -69,7 +69,7 @@
     "prefer-stable": true,
     "prefer-lowest": false,
     "platform": {
-        "php": "^8.0"
+        "php": ">=7.4"
     },
     "platform-dev": [],
     "plugin-api-version": "2.3.0"
